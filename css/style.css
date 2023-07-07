@@ -2,6 +2,9 @@
   background-color: black !important;
   color: white !important;
   margin-bottom: 0px !important;
+  position: sticky !important;
+  top: 0px !important;
+  z-index: 9999;
 }
 #Navbar .navbar-brand {
   color: white !important;
